@@ -1,0 +1,45 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/64/tw6p11v53tg6yg06grrmb4j40000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/salmansiddiqui/Library/Application Support/IdeaIC2019.3/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+test
+runMain reductions.LineOfSightRunner
+submit salman.vnit@gmail.com 7reqhhNxtLFeyYBc
+submit salman.vnit@gmail.com XxubSruAuFFxTStX
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+tws
+test
+2DrunMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+runMain reductions.ParallelParenthesesBalancingRunner
+submit salman.vnit@gmail.com XxubSruAuFFxTStX
+test
+compile
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+test
+runMain
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+runMain reductions.ParallelParenthesesBalancingRunner
+compile
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+runMain reductions.LineOfSightRunner >out
+submit salman.vnit@gmail.com SrHa0K0PMr11LCGK
+compile
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+submit salman.vnit@gmail.com SrHa0K0PMr11LCGK
+submit salman.vnit@gmail.com OcANZZaTbuQaCVon
+exit

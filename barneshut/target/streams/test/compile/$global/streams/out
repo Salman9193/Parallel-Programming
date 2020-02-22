@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/salmansiddiqui/Documents/scala/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala:33:42: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Seq[barneshut.Body] (in scala.collection) [0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[barneshut.Body] (in scala.collection.immutable) [0m
+[0m[[0m[31merror[0m] [0m[0m    val quad = Leaf(17.5f, 27.5f, 5f, Seq(b))[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/salmansiddiqui/Documents/scala/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala:44:40: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Seq[barneshut.Body] (in scala.collection) [0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[barneshut.Body] (in scala.collection.immutable) [0m
+[0m[[0m[31merror[0m] [0m[0m    val nw = Leaf(17.5f, 27.5f, 5f, Seq(b))[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/salmansiddiqui/Documents/scala/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala:88:39: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Seq[barneshut.Body] (in scala.collection) [0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[barneshut.Body] (in scala.collection.immutable) [0m
+[0m[[0m[31merror[0m] [0m[0m    val quad = Leaf(15f, 30f, 20f, Seq(b2, b3))[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

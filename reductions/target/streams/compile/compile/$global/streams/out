@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/salmansiddiqui/Documents/scala/reductions/src/main/scala/reductions/LineOfSight.scala:86:7: incompatible type in overriding[0m
+[0m[[0m[31merror[0m] [0m[0mdef upsweep(input: Array[Float], from: Int, end: Int, threshold: Int): reductions.Tree (defined in trait LineOfSightInterface);[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (input: Array[Float], from: Int, end: Int, threshold: Int)reductions.LineOfSight.Tree[0m
+[0m[[0m[31merror[0m] [0m[0m required: (input: Array[Float], from: Int, end: Int, threshold: Int)reductions.Tree[0m
+[0m[[0m[31merror[0m] [0m[0m  def upsweep(input: Array[Float], from: Int, end: Int, threshold: Int): Tree = {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/salmansiddiqui/Documents/scala/reductions/src/main/scala/reductions/LineOfSight.scala:41:8: object creation impossible. Missing implementation for:[0m
+[0m[[0m[31merror[0m] [0m[0m  def downsweep(input: Array[Float], output: Array[Float], startingAngle: Float, tree: reductions.Tree): Unit // inherited from trait LineOfSightInterface [0m
+[0m[[0m[31merror[0m] [0m[0m(Note that reductions.Tree does not match reductions.LineOfSight.Tree)[0m
+[0m[[0m[31merror[0m] [0m[0mobject LineOfSight extends LineOfSightInterface {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
